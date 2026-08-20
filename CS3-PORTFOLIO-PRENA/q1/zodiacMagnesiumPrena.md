@@ -7,9 +7,11 @@
 
 ## Python Code ('zodiacMagnesiumPrena.py')
 birth_year= int(input("Enter your birth year: "))
+
+### Stops program if the year is earlier than 1900 
 if birth_year < 1900:
     print("Invalid year. It should not be earlier than 1900.") 
-### Stops program if the year is earlier than 1900 
+
 
 ### List of the Chinese Zodiac signs with their translation 
 else: 
@@ -31,6 +33,6 @@ else:
     index = (birth_year - 1900) % 12
 ### Picks the matching animal from the list
     zodiac_sign = zodiac_signs[index]
-
+### Prints the output
     print(f"Your Chinese zodiac sign is: {zodiac_sign}")
 
