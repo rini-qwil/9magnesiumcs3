@@ -4,9 +4,10 @@
 
 # Quarter 1
 
-##Activities
+## Activities:
 
-[View my Computational Thinking Skills Exercise] (Quarter 1/ctskillsMagnesiumPrena.md)
+'''markdown
+- [Chinese Zodiac Calculator] (CS3-PORTFOLIO-PRENA/q1/zodiacMagnesiumPrena)
 
-[View my Chinese Zodiac Sign Output] (Quarter 1/zodiacMagnesiumPrena.md)
+
 
