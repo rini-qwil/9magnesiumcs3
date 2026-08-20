@@ -6,7 +6,7 @@
 
 ## Activities:
 
-- [Chinese Zodiac Calculator](CS3-PORTFOLIO-PRENA/zodiacMagnesiumPrena)
+- [Chinese Zodiac Calculator](CS3-PORTFOLIO-PRENA/q1/zodiacMagnesiumPrena)
 
 
 
