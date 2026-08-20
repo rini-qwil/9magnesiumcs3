@@ -6,7 +6,7 @@
 
 ## Activities:
 
-- [Chinese Zodiac Calculator](q1/zodiacMagnesiumPrena)
+- [Chinese Zodiac Calculator](q1/zodiacMagnesiumPrena.py)
 
 
 
