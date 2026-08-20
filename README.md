@@ -6,7 +6,6 @@
 
 ## Activities:
 
-'''markdown
 - [Chinese Zodiac Calculator] (CS3-PORTFOLIO-PRENA/q1/zodiacMagnesiumPrena)
 
 
