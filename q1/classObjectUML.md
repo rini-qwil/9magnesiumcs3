@@ -16,7 +16,7 @@ My class represents the different songs, artists, and genres that are found in s
 ## Methods:
 | Method     | Description |
 | playBack(songs:string) | Playback is used to rewind the music played/is playing.|
-| Skip()       | Skip is used to skip the current song playing.|
+| Skip()    | Skip is used to skip the current song playing.|
 | Pause()  | Pause is used to stop the current song playing. |
 
 ## UML Class Diagram:
@@ -28,8 +28,7 @@ My class represents the different songs, artists, and genres that are found in s
 I chose this class because it peaked my interest when I first saw it.
 
 ### Which property is the most important? Why?
-The property that I think is the most important is Song Title because it is the first thing people see when they go to Spotify or any music streaming websites. Through the song title, 
+The property that I think is the most important is the song title because it is the first thing people see when they go to Spotify or any music streaming websites. Through the song title, users can get a first impression on what the song is going to be about. 
 
 ###  Which method is the most useful? Why?
-The method that I think is the most useful is playBack() because in my experience, I like to repeat music and rewind parts that I really like in the song.
-
+The method that I think is the most useful is playBack() because in my experience, I like to repeat music and rewind parts that I really like in the song like the bridge and intro.
