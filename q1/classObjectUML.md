@@ -16,7 +16,7 @@ My class represents the different songs, artists, and genres that are found in s
 
 ## Methods:
 | Method | Description | 
-|---|---|| | |
+|---|---|
 | playBack(songs:string) | Playback is used to rewind the music played/is playing.|
 | Skip()    | Skip is used to skip the current song playing.|
 | Pause()  | Pause is used to stop the current song playing. |
