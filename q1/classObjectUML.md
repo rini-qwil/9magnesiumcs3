@@ -8,13 +8,15 @@ Music
 My class represents the different songs, artists, and genres that are found in streaming services like Spotify.
 
 | Property   | Data Type | Description |
+|---|---|---|
 | Song Title | String  | It is used to instantly find songs and it also grabs the attention of the customer/listener |
 |  Artist    | String  | It is the person who wrote/sang/produced/performed the music.  |
 |  Genre     | String  | It categorizes pieces of music that share traits like musical composition, instruments used, origins, and more. |
 | Publication Year | Int | The year the song is first distributed to the public.  |
 
 ## Methods:
-| Method | Description |
+| Method | Description | 
+|---|---|| | |
 | playBack(songs:string) | Playback is used to rewind the music played/is playing.|
 | Skip()    | Skip is used to skip the current song playing.|
 | Pause()  | Pause is used to stop the current song playing. |
