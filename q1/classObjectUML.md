@@ -20,7 +20,7 @@ My class represents the different songs, artists, and genres that are found in s
 | Pause()  | Pause is used to stop the current song playing. |
 
 ## UML Class Diagram:
-[Class Diagram](images/classDiagram.png)
+[Class Diagram](Pictures/classDiagram.png)
 
 ## Short Design Explanation: 
 
