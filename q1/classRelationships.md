@@ -32,13 +32,16 @@ Explanation: I chose the multiplicity "many" because there are many different in
 ## Object Relationship Diagram
 ![Object Relationship Diagram](images/objectRelationshipDiagram.png)
 
-## Analysis
+## Analysis:
 ### What is the association between your two classes?
+The association I used between my two classes is "includes".
 
 ### What multiplicity did you choose and why?
+The multiplicity I chose was the "Many" multiplicity because like I said earlier, there are many different instruments that are used to play music. There is no single "instrument" used to play music.
 
 ### How did you implement the relationship in Python?
 
-
 ### Why did you store an object reference instead of copying its data?
+
 ### If your relationship uses many, why is a list appropriate?
+A list is appropriate when the relationship uses "many" because they are used to store multiple items in a single variable. 
