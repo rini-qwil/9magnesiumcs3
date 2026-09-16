@@ -4,8 +4,8 @@
 [Part II - Class Attributes and Methods](classAttributesMethods.md)
 
 ## Existing Class
-Class:
-Description:
+Class: Music
+Description: 
 
 ## New Related Class
 Class: Instruments 
