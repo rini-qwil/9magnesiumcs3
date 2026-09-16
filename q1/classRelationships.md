@@ -5,7 +5,7 @@
 
 ## Existing Class
 Class: Music
-Description: 
+Description: My class represents the different songs, artists, and genres that are found in streaming services like Spotify.
 
 ## New Related Class
 Class: Instruments 
