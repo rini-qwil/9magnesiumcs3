@@ -7,19 +7,22 @@ Music
 ## Class Description:
 My class represents the different songs, artists, and genres that are found in streaming services like Spotify.
 
-| Property   | Data Type | Description |
-|---|---|---|
-| Song Title | String  | It is used to instantly find songs and it also grabs the attention of the customer/listener |
-|  Artist    | String  | It is the person who wrote/sang/produced/performed the music.  |
-|  Genre     | String  | It categorizes pieces of music that share traits like musical composition, instruments used, origins, and more. |
-| Publication Year | Int | The year the song is first distributed to the public.  |
+| Property   | Data Type | Description | Visibility
+|---|---|---|---|
+| Song Title | String  | It is used to instantly find songs and it also grabs the attention of the customer/listener | Public(+)
+|  Artist    | String  | It is the person who wrote/sang/produced/performed the music.  | Public(+)
+|  Genre     | String  | It categorizes pieces of music that share traits like musical composition, instruments used, origins, and more. | Public(+)
+| Publication Year | Int | The year the song is first distributed to the public. | Private (-)
+| is_playing | Boolean | This tells whether a song is currently playing or not. | Private (-)
 
 ## Methods:
 | Method | Description | 
 |---|---|
-| playBack(songs:string) | Playback is used to rewind the music played/is playing.|
+| playBack(seconds) | Playback is used to rewind the music played/is playing.|
 | Skip()    | Skip is used to skip the current song playing.|
 | Pause()  | Pause is used to stop the current song playing. |
+| get_publication_year()  | This returns the private publication year. |
+| set_publication_year(year)| This is used to update the publication year IF it is valid and checked. |
 
 ## UML Class Diagram:
 [Class Diagram](Pictures/classDiagram.png)
