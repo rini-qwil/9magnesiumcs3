@@ -1,0 +1,13 @@
+class Instruments:
+  def __init__(Name, Type of Instrument):
+
+
+self.related_objects = [] 
+
+def add_object(self, object_reference):
+self.related_objects.append(object_reference)
+
+owner = ...
+item1 = ...
+item2 = ...
+item3 = ...
