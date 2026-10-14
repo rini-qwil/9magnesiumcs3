@@ -38,6 +38,11 @@ initial_balance = float(input("Enter initial balance: "))
 #this is for updating the balance of the users account. 
 if update_balance := input("Do you want to update your balance? (yes/no): ").lower() == "yes":
     new_balance = float(input("Enter new balance: "))
+    if new_balance > 0:
+        self.__balance = new_balance
+        print(f"Balance updated. New balance: {self.__balance}")
+    else:
+        print("Balance must be positive. Balance not updated.")
     account = BankAccount(account_number, account_holder_number, new_balance)
 
 #this displays the information of the users account if they want to.
