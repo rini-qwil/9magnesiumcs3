@@ -17,3 +17,5 @@
 - [View my OOPAct Activity](q1/classObjectUML.md) 
 
 - [View my Encapsulation Activity](q2/sg8_encapsulation.py) 
+
+- [View my Inheritance Activity](q2/sg9_inheritance.py) 
